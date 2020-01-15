@@ -16,10 +16,10 @@ import json
 
 app = Flask(__name__)
 
-consumer_key = 'Tbw54eQZKChqL1C6s0x3NriIv'
-consumer_secret = 'aZzIKEq38cSHbA8uhfsEq8lifwm8MDpKby049AXdnCbjKDr1O2'
-access_token = '856779498821373953-GKJYsGJNk6wEw6NaMy1KkPnBiqp9IUI'
-access_secret = 'iyK9SIFRtbr1nStPEi7xZIW29Kdo4KWFrbWSSlVV5oVZl'
+consumer_key = '##key##'
+consumer_secret = '##secretcode##'
+access_token = '##access-token##'
+access_secret = '##secretcode##'
 
 n_instances = 100
 
